@@ -44,7 +44,8 @@ profile.
  NLP models to extract structured drug details (name, dosage, frequency)
  from unstructured medical text.
 
-5) User-Friendly Interface ( 
+
+6) User-Friendly Interface ( 
 Streamlit) – Provides an interactive frontend for users and a responsive
  backend for real-time drug analysis and recommendations.Technologies & Tools Python, Streamlit, IBM Watson, HuggingFace, Fast APIReferences
 https://docs.google.com/document/d/1litwSiKuDxTDZncyGO611WXIBMzT7eEd/edit?usp=sharing&ouid=114172612492471861646&rtpof=true&sd=true
