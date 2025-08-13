@@ -20,3 +20,31 @@ Registration Link : https://skills.yourlearning.ibm.com/activity/MDL-388?ngoid=0
 Recording sessions link: 
 https://www.youtube.com/playlist?list=PL3BTeoo2lf66e1UupAarDccv4ahY85WIO 
 PROBLEM STATEMENT:
+TitleAI Medical Prescription Verification Leveraging IBM Watson and Hugging Face ModelsDescriptionThis
+ project aims to analyze drug interactions, identify correct drug 
+dosages, and provide safe alternative medication options based on age 
+and drug details. It integrates multiple datasets and leverages advanced
+ NLP models and APIs for accurate drug information extraction and 
+interaction understanding. The system is built with a FastAPI backend 
+and a Streamlit frontend for easy user interaction.Expected Solutions1)
+ Drug Interaction Detection System – Detects and flags harmful 
+interactions between multiple drugs entered by the user using integrated
+ drug databases.
+
+2) Age-Specific Dosage Recommendation – 
+Recommends accurate dosages based on patient age and drug safety 
+profiles, ensuring age-appropriate treatment.
+
+3) Alternative 
+Medication Suggestions – Suggests safer or equivalent drugs when 
+interactions or contraindications are identified for a given patient 
+profile.
+
+4) NLP-Based Drug Information Extraction – Uses advanced
+ NLP models to extract structured drug details (name, dosage, frequency)
+ from unstructured medical text.
+
+5) User-Friendly Interface ( 
+Streamlit) – Provides an interactive frontend for users and a responsive
+ backend for real-time drug analysis and recommendations.Technologies & Tools Python, Streamlit, IBM Watson, HuggingFace, Fast APIReferences
+https://docs.google.com/document/d/1litwSiKuDxTDZncyGO611WXIBMzT7eEd/edit?usp=sharing&ouid=114172612492471861646&rtpof=true&sd=true
