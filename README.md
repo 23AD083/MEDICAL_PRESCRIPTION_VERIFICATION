@@ -17,7 +17,6 @@ Registration Link : https://skills.yourlearning.ibm.com/activity/MDL-388?ngoid=0
   IBM CERFICATION : <img width="1002" height="632" alt="image" src="https://github.com/user-attachments/assets/e043965c-c933-4ad4-82f6-4c4d08f84904" />
 
 5.	After completing the course, you will receive a certificate to your registered email address. You have to take a screenshot of that certificate and upload that in the below given form. Form Link: https://forms.gle/aMWouRV1evoQeDv4A
-6.	
 Recording sessions link: 
 https://www.youtube.com/playlist?list=PL3BTeoo2lf66e1UupAarDccv4ahY85WIO 
 PROBLEM STATEMENT:
